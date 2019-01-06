@@ -1,0 +1,25 @@
+git help命令的提示信息
+
+The most commonly used git commands are:
+   add        Add file contents to the index (添加文件内容至索引)
+   bisect     Find by binary search the change that introduced a bug (通过二分法查找定位引入 bug的变更)
+   branch     List, create, or delete branches (列出、创建或删除分支)
+   checkout   Checkout a branch or paths to the working tree (迁出一个分支或路径到工作区)
+   clone      Clone a repository into a new directory (克隆一个版本库到一个新目录)
+   commit     Record changes to the repository (记录变更到版本库)
+   diff       Show changes between commits, commit and working tree, etc (显示提交之前、提交和工作区之间等的差异)
+   fetch      Download objects and refs from another repository (从另外一个版本库下载对象和引用)
+   grep       Print lines matching a pattern (输出和模式匹配的行)
+   init       Create an empty git repository or reinitialize an existing one (创建一个空的Git版本管理库或重新初始化一个已经存在的版本库)
+   log        Show commit logs (显示提交日志记录)
+   merge      Join two or more development histories together (合并二个或更多开发历史)
+   mv         Move or rename a file, a directory, or a symlink (删除或重命名一个文件、目录、或符合链接)
+   pull       Fetch from and merge with another repository or a local branch (获取并合并另外的一个版本库和一个本地分支)
+   push       Update remote refs along with associated objects (更新远程引用和相关的对象)
+   rebase     Forward-port local commits to the updated upstream head (本地提交转移至更新后的上游分支中)
+   reset      Reset current HEAD to the specified state (重置当前的HEAD到指定的状态)
+   rm         Remove files from the working tree and from the index (从工作区和索引中删除文件)
+   show       Show various types of objects (显示各种类型的对象)
+   status     Show the working tree status (显示工作区状态)
+   tag        Create, list, delete or verify a tag object signed with GPG (创建、列出、删除或校验一个GPS签名的tag对象)
+   
